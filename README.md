@@ -3,15 +3,6 @@
 This is the first file in this repo
 
 
-# Adding some Content to this file
+# Html Code
 
-Hi
-Hello
-Hru
-
-
-# Adding some Content to this file
-
-Hi
-Hello
-Hru
+index.html
